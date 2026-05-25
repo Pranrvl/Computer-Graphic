@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "scripttxt": "cpp"
+    },
+
+    "terminal.integrated.profiles.windows": {
+    "UCRT64 (MSYS2)": {
+    "path": "C:\\msys64\\ucrt64.exe",
+    "overrideName": true,
+    "icon": "terminal-bash"
+  }
+}
+}
+
